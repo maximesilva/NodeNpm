@@ -1,0 +1,25 @@
+{
+  "name": "NodeNpm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo test ok",
+    "today": "echo 27/05/1988",
+    "weather": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximesilva/NodeNpm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maximesilva/NodeNpm/issues"
+  },
+  "homepage": "https://github.com/maximesilva/NodeNpm#readme",
+  "dependencies": {
+    "weather-js": "^2.0.0"
+  }
+}
